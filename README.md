@@ -1,1 +1,1 @@
-# vir
+# Vállalati Információs Rendszerek 2020 
