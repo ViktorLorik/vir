@@ -1,0 +1,29 @@
+.text-center {
+  text-align: center;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+}
+
+.marginRight {
+  margin-right: 20px;
+}
+
+.body-key {
+  width: 100%;
+}
+
+.center-button {
+  margin: 0;
+  position: absolute;
+}
+
+.addHeaderBtn {
+  padding: 20px;
+}
+
+.page-section {
+  margin-bottom: 40px;
+}
